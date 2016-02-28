@@ -1,0 +1,24 @@
+_repo: The-suppressed-Gospels-and-Epistles-of-the-original-New-Testament-of-Jesus-the-Christ-Volume-9__6515
+creator:
+  author:
+    agent_name: Wake, William
+    birthdate: 1657
+    deathdate: 1737
+    gutenberg_agent_id: '2074'
+    url: http://www.gutenberg.org/2009/agents/2074
+    wikipedia: http://en.wikipedia.org/wiki/William_Wake
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apocryphal books (New Testament)'
+- !lcc 'BS'
+title: The suppressed Gospels and Epistles of the original New Testament of Jesus
+  the Christ, Volume 9, Hermas
+url: http://www.gutenberg.org/ebooks/6515
